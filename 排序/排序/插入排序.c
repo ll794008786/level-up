@@ -39,7 +39,7 @@ void ShellSort(int* a, int n)
 	}
 }
 
-void PrintfArray(int* a, int n)//´òÓ¡º¯Êý
+void PrintfArray(int* a, int n)
 {
 	int i;
 	for (i = 0; i < n; i++)
