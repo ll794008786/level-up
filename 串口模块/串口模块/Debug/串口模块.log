@@ -1,12 +1,8 @@
-﻿生成启动时间为 2020/5/24 19:11:08。
+﻿生成启动时间为 2020/5/24 20:36:01。
      1>项目“E:\GITHUB\串口模块\串口模块\串口模块.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         F:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WZSerialPort.cpp test.cpp
-         WZSerialPort.cpp
-         正在生成代码...
-         正在编译...
+         F:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
          test.cpp
-         正在生成代码...
        Link:
          F:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GITHUB\串口模块\Debug\串口模块.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\GITHUB\串口模块\Debug\串口模块.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GITHUB\串口模块\Debug\串口模块.lib" /MACHINE:X86 Debug\test.obj
          Debug\WZSerialPort.obj
@@ -15,4 +11,4 @@
 
 生成成功。
 
-已用时间 00:00:02.26
+已用时间 00:00:00.86
