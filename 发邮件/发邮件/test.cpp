@@ -9,7 +9,7 @@ int main()
 	long long res[21] = { 0, 0, 1 };
 	for (int i = 3; i < 21; i++)
 	{
-		res[i] = (i - 1) * (res[i - 1] + res[i - 2]);
+		res[i] = (i - 1) * (res[i - 1] + res[i - 2]);//D(n) = (n - 1) * [D(n - 1) + D(n - 2)]
 	}
 	int n;
 	while (cin >> n)
