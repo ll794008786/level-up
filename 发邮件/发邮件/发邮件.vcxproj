@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9A2ED77C-0069-40DD-B7FD-A389D799B141}</ProjectGuid>
+    <ProjectGuid>{54D8658C-CD05-4A06-8986-C26921C1FBA8}</ProjectGuid>
     <RootNamespace>发邮件</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
